@@ -17,16 +17,16 @@ This repository contains the files created for the Responsive Web Design Certifi
 The repository is organized into different sections, each corresponding to a specific project or challenge in the FreeCodeCamp Responsive Web Design curriculum. Below is an outline of the project structure:
 
 1. **Project1 - Tribute Page:**
-    - [Tribute Page](Tribute_page/)
+    - [Tribute Page](./Tribute_page/)
 
 2. **Project2 - Survey Form:**
-    - [Survey Form](/Survey_form)
+    - [Survey Form](./Survey_form/)
 
 3. **Project3 - Product Landing Page:**
-    - [Product Landing Page](/Landing_page)
+    - [Product Landing Page](./Landing_page/)
 
 4. **Project4 - Technical Documentation Page:**
-    - [Technical Documentation](/Technical_Documentation_page)
+    - [Technical Documentation](./Technical_Documentation_page/)
 <!--
 5. **Project5 - Personal Portfolio:**
     - [Files and Code](/Project5_Personal_Portfolio)
