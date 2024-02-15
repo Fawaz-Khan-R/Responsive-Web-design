@@ -29,7 +29,7 @@ The repository is organized into different sections, each corresponding to a spe
 
 Feel free to explore the individual project folders to review the code and design implemented for each challenge.
 
-If you have any questions or feedback, please don't hesitate to reach out.
+If you have any questions or feedback, please don't hesitate to reach out by [creating an issue](https://github.com/Fawaz-Khan-R/Responsive-Web-design/issues/new)
 <!--
 ## Certification Badge
 
